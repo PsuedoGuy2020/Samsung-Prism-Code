@@ -1,0 +1,6 @@
+https://blog.logrocket.com/build-ecommerce-app-whatsapp-cloud-api-node-js/
+npmjs.com/package/@green-api/whatsapp-bot
+https://www.npmjs.com/package/venom-bot
+https://www.npmjs.com/package/whatsapp-cloud-api
+https://www.npmjs.com/package/venom-bot
+https://www.youtube.com/watch?v=ul_9qe_fiTY
